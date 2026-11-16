@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Junior Frontend Developer | Computer Science Graduate
 
-I'm a passionate developer from Tunisia 🇹🇳 who enjoys building modern, responsive, and user-friendly applications.
+I'm a passionate developer from Tunisia who enjoys building modern, responsive, and user-friendly applications.
 
 I started my development journey with Flutter and expanded my skills into web development, especially React. I'm continuously learning, improving my problem-solving skills, and working on personal projects to become a better developer.
 
